@@ -103,28 +103,48 @@ that far. Whether it runs or not, just submit what you have.
 06/13 (Mon): 
 * P2p3
 * Mock interview in lecture using [this problem](https://leetcode.com/problems/contains-duplicate/)
-* Tree traversals
+* Tree traversals: Level-order (BFS), recursive DFS traversals
+
+*Homework: P2p4 questions due Wednesday at 7PM*
 
 06/14 (Tues): 
 * [Find count of number in a sorted array](https://leetcode.com/discuss/interview-question/algorithms/124724/Find-count-of-a-number-in-sorted-array)
 * [Trees](https://leetcode.com/tag/tree/)
-* BFS/DFS
 * [DFS: Recursive and Iterative Approaches](https://faun.pub/implementing-recursive-and-iterative-dfs-on-a-binary-tree-golang-eda04949f4ee)
+* Implement a post-order and in-order traversal using an iterative approach
+* [Zigzag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+* [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+* [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
 
+*Homework: P2p4 questions due Wednesday at 7PM; p2p5 questions due Thursday at 7PM*
 
-06/15 (Weds):  
+06/15 (Weds): 
+* HEAPS
 
-06/16 (Thurs):  
+*Homework: P2p4 questions due TONIGHT at 7PM; p2p5 questions due TOMORROW at 7PM*
+
+06/16 (Thurs): 
+* p2p4
+* Dynamic programming
+
+*Homework: P2p5 questions due TONIGHT at 7PM*
 
 06/17 (Fri):
+* p2p5
+* Dynamic programming
 
 ### Week 3 (06/20 -> 06/24)
 
 06/20 (Mon): 
+* NO in-person class
+* Midpoint assessment
 
-06/21 (Tues): 
+06/21 (Tues):
+* p2p6
+* Bitwise operations
 
-06/22 (Weds):   
+06/22 (Weds):
+* graphs, topological sort
 
 06/23 (Thurs):  
 
